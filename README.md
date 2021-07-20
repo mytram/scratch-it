@@ -6,3 +6,4 @@ Scratch: https://scratch.mit.edu/
 
 - [Multiples of 3 and 5](multiples-of-3-and-5.md)
 - [Triangular number](triangular-number.md)
+- [Square numbers](square-numbers.md)
